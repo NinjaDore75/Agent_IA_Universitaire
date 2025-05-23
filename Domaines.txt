@@ -1,0 +1,47 @@
+Domaines : 
+
+--- université aide : ---
+- aide à la vie étudiante
+- service handicap (contact, faq)
+- aide précarité
+- épicerie solidaire
+- service d'orientation
+
+---université année : ---
+- redoublement
+- réussir l'année (modalités)
+- travailler a la bu (lieu, reserver une salle, travailler en groupe)
+- aller à l'université (adresse, moyen de transport etc)
+- contact
+- restauration (lieux)
+- trouver les bâtiments/ufr/lettres
+
+--- université association : ---
+- assos en général (la plupart des assos)
+- assos par domaine
+- agenda de la semaine
+- créer une asso
+- subvention
+
+--- crous : ---
+- contact (adresse, téléphone, mail)
+- aide à l'accompagnement (bourse, financier etc)
+- aide pour le logement (types, prix, contact)
+- CVEC
+- restauration
+
+--- transports : ---
+- forfaits Imagine'R (scolaire et étudiant)
+- tarifs et réductions étudiantes
+- démarches pour obtenir un Pass Navigo
+
+--- sport universitaire : ---
+- info sur le SUAPS (contact, lieu…)
+- sports proposés
+- types de sports
+- sport en particulier (existance, horaire, lieu…)
+
+--- blagues : ---
+- fait des blagues
+
+...
